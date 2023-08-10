@@ -39,7 +39,7 @@
 
 ## 🚩Achievements
 - Smart India Hackathon Winner
-- NSCC President'22 at [GDSC SREC]
+- NSCC President'22 at [NSCC SREC](https://www.instagram.com/nscc_srec/)
 - GDSC Techincal Lead'21 at [GDSC SREC](https://github.com/gdscsrec)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,6 +47,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayasakthibalajig&show_icons=true&locale=en&layout=compact" alt="jayasakthibalajig" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayasakthibalajig&show_icons=true&locale=en" alt="jayasakthibalajig" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayasakthibalajig&" alt="jayasakthibalajig" /></p>
