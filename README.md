@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **balaji77.j@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19YZy9KDQZoxlaN1lYcfdcxJh4O9vaVnS/view?usp=drive_link](https://drive.google.com/file/d/19YZy9KDQZoxlaN1lYcfdcxJh4O9vaVnS/view?usp=drive_link)
+- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/19YZy9KDQZoxlaN1lYcfdcxJh4O9vaVnS/view?usp=drive_link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
