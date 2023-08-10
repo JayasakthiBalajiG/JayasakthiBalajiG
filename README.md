@@ -2,7 +2,7 @@
 <h3 align="center">A spirited programmer and interested in the fields of AR/VR, Android application development, Flutter, Spring</h3>
 
 <br/>
-<img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+<img align="right" alt="Coding" height="300" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 <br/>
 
 
