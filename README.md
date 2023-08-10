@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jayasakthi Balaji G</h1>
 <h3 align="center">A spirited programmer and interested in the fields of AR/VR, Android application development, Flutter, Spring</h3>
 
+<br/>
+<img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+<br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayasakthibalajig&label=Profile%20views&color=0e75b6&style=flat" alt="jayasakthibalajig" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayasakthibalajig" alt="jayasakthibalajig" /></a> </p>
