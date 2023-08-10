@@ -5,11 +5,6 @@
 <img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayasakthibalajig&label=Profile%20views&color=0e75b6&style=flat" alt="jayasakthibalajig" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayasakthibalajig" alt="jayasakthibalajig" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/gjsb_sakthi" target="blank"><img src="https://img.shields.io/twitter/follow/gjsb_sakthi?logo=twitter&style=for-the-badge" alt="gjsb_sakthi" /></a> </p>
 
 - 🌱 I’m currently learning **DSA, Spring**
 
