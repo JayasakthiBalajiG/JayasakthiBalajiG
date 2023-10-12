@@ -21,8 +21,6 @@
 <a href="https://linkedin.com/in/jayasakthi-balaji-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayasakthi-balaji-g" height="30" width="40" /></a>
 <a href="https://instagram.com/gjsb_sakthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gjsb_sakthi" height="30" width="40" /></a>
 <a href="https://medium.com/@gjsb_sakthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gjsb_sakthi" height="30" width="40" /></a>
-<a href="https://discord.gg/@gjsb_sakthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@gjsb_sakthi" height="30" width="40" /></a>
-<a href="/na" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="na" height="30" width="40" /></a>
 </p>
 
 ## 👨‍🎓️️Dev Stats
