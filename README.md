@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayasakthi Balaji G</h1>
-<h3 align="center">A Spirited programmer interested in the fields of AR/VR, Android application development, Flutter, Spring</h3>
+<h3 align="center">A Spirited programmer interested in the fields of ML/DL ,AR/VR, Android application development, Flutter, Spring</h3>
 
 <br/>
 <img align="right" alt="Coding" height="180" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
