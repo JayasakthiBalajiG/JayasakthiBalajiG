@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **balaji77.j@gmail.com**
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/19YZy9KDQZoxlaN1lYcfdcxJh4O9vaVnS/view?usp=drive_link)
+- 📄 [My Resume]([https://drive.google.com/file/d/19YZy9KDQZoxlaN1lYcfdcxJh4O9vaVnS/view?usp=drive_link](https://drive.google.com/file/d/1P0tVGeYJEadwr8-X0SwHOCFBhkx-IzKt/view?usp=drive_link))
 
 
 <h3 align="left">Connect with me:</h3>
