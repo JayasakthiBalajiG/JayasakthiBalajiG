@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **balaji77.j@gmail.com**
 
-- 📄 [My Resume](https://drive.google.com/file/d/1P0tVGeYJEadwr8-X0SwHOCFBhkx-IzKt/view?usp=drive_link)
-
+- 📄 [About Me](http://bento.me/jayasakthibalaji)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
