@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Augmented/Virtual reality, Flutter, Android app development, Spring**
 
-- 📫 Can reach me @ **balaji77.j@gmail.com**
+- 📫 Can reach me @**balaji77.j@gmail.com**
 
 - 📄 [About Me](https://bento.me/jayasakthi-balaji-g)
 
