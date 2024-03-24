@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **balaji77.j@gmail.com**
 
-- 📄 [About Me](http://bento.me/jayasakthibalaji)
+- 📄 [About Me](https://bento.me/jayasakthi-balaji-g)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
