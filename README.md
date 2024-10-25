@@ -6,7 +6,7 @@
 <br/>
 
 
-- 🌱 I’m currently pursuing my masters in **Artificial Intelligence and Intelligent System at University of Bremen, Germany**
+- 🌱 I’m currently pursuing my master in **Artificial Intelligence and Intelligent Systems at the University of Bremen, Germany**
 
 - 💬 Ask me about **BCI, ML/DL, Augmented/Virtual reality, Flutter, Android app development**
 
