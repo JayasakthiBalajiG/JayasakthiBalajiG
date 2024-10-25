@@ -6,9 +6,9 @@
 <br/>
 
 
-- 🌱 I’m currently learning **DSA, Spring**
+- 🌱 I’m currently pursuing my masters in **Artificial Intelligence and Intelligent System at University of Bremen, Germany**
 
-- 💬 Ask me about **Augmented/Virtual reality, Flutter, Android app development, Spring**
+- 💬 Ask me about **BCI, ML/DL, Augmented/Virtual reality, Flutter, Android app development**
 
 - 📫 Can reach me @**balaji77.j@gmail.com**
 
