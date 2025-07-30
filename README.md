@@ -22,14 +22,6 @@
 <a href="https://medium.com/@gjsb_sakthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gjsb_sakthi" height="30" width="40" /></a>
 </p>
 
-## 👨‍🎓️️Dev Stats
-
-<div style="display: flex; flex-direction: row;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JayasakthiBalajiG&theme=gotham" alt="Streaks" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api?username=JayasakthiBalajiG&theme=gotham&show_icons=true" alt="Top Langs" width="50%" />
-</div>
-&nbsp;
-
 ## 🚩Achievements
 - Smart India Hackathon Winner
 - CodeXHackathon Runner at Capgemini Coimbatore 
