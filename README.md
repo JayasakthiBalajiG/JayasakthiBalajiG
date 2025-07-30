@@ -6,11 +6,11 @@
 <br/>
 
 
-- 🌱 I’m currently pursuing my master in **Artificial Intelligence and Intelligent Systems at the University of Bremen, Germany**
+- 🌱 I’m currently pursuing my master's in **Artificial Intelligence and Intelligent Systems at the University of Bremen, Germany**
 
-- 💬 Ask me about **BCI, ML/DL, Augmented/Virtual reality, Flutter, Android app development**
+- 💬 Ask me about **Bio-signal Processing, ML/DL, Augmented/Virtual reality**
 
-- 📫 Can reach me @**balaji77.j@gmail.com**
+- 📫 Can reach me @**jayasakthibg0502@gmail.com**
 
 - 📄 [About Me](https://bento.me/jayasakthi-balaji-g)
 
